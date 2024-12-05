@@ -1,0 +1,5 @@
+IP: 84.201.154.1;
+name_taski: https://prjct.hopto.org;
+name_kittygram: https://https://prjctfnl.hopto.org;
+login: admin;
+password: admin;
